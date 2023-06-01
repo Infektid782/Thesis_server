@@ -6,7 +6,7 @@ Once you have both of those installed on your pc, clone the project and navigate
 
 Run 'npm install' to install all the required dependencies.
 
-Run 'nodemon' command to start the server.
+Run 'nodemon' to start the server.
 
 The server runs on localhost therefore it is required to set the ip address on the client side in the following file:
 Model/DataProvider/Toolbox/ApiEndpoints
