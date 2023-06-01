@@ -1,5 +1,7 @@
 # Thesis_server
 
+The server can be cloned from https://github.com/Infektid782/Thesis_server
+
 For the server to work Node.js and npm is required.
 
 Once you have both of those installed on your pc, clone the project and navigate to it's directory in a terminal or open it in VS Code.
